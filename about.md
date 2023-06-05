@@ -3,27 +3,36 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+<h3>自我介绍</h3>
+
+<p>1999年生，习惯独处，话少，处于人生中头发较短的时期。跑步最远的一次是7公里，骑车的最远距离是70公里。在努力地减轻刷微博的症状。怀疑一切人为可以操控的东西。崇尚简单，简单的交流，简单的关系。喜欢平静，相信幸福的生活在很大程度上一定是一种平静的生活，因为真正的快乐只能常驻在平静的环境里。
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<p>感受着情绪和精神发生的变化，保持沉默，喜欢安静的环境，观察目光所及的事物，对噪声感到强烈厌恶，在舒适的环境中与周围融为一体，开始正视自己的邪恶情绪，将它们与从想法中区分。
+</p>
 
-There are currently two themes built on Poole:
+<br>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+<h3>关于博客</h3>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+<p>高中经常性觉得时间过多，也不能专心做题，常在纸上乱涂乱画，写一些东西来消解表达的欲望，看着窗外发呆，想象自己是天空中的飞鸟，鼓起很大勇气凭感觉写诗给自己抱有好感的女生，这段时间的大部分产物，就是在胡言乱语。在笔记本，手机，电脑里多多少少留下了一些它们的痕迹。上大学的时候，上了一门Web的课程，因此了解到GitHub，加上我自己喜欢Google各种问题，关键词，了解到了Github Page，后来搭起了自己的博客。内容多是一些自己的生活想法，没有特别的东西。</p>
+<br>
 
-## Setup
+<h3>喜欢的句子风格</h3>
 
-Some fun facts about the setup of this project include:
+<p>我以为每一个生活在当代世界和当今中国的人，是不能不政治的。</p>
+<p>一个有着严肃且富有建设性目标的男孩子或男青年，如果他觉得有必要，就会心甘情愿地忍受非常烦闷的生活。而如果他过着懒散、放荡的生活，就不容易从心底里生出富有建设性的目标，因为他的思想总是被引到下一次的快乐，而不是遥远的成就。
+</p>
+<p>所谓希望，就是对下辈子生活的希望，应当“对得起”才行，抑或是自欺欺人：不是为生活本身而生活，而是为某个伟大的理念而生活，让理念超越生活，使生活变得崇高，给生活注入意义，任理念背叛生活。</p>
+<p>千万丈的大厦总要有片奠基石，最初的爱好无可替代。所有的智者、诗人，也许都体验过儿童对着星光感悟的一瞬。我总觉得，这种爱好对一个人来说，就如性爱一样，是不可少的。</p>
+<p>我始终相信，开始在内心生活得严肃的人，也会在外表上开始生活得更朴素。在一个奢华浪费的年代，我希望能向世界表明，人类真正需要的东西是非常之微少的。</p>
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<br>
+<h3>最喜欢的词</h3>
+<p>临江仙·杨慎</p>
+滚滚长江东逝水，浪花淘尽英雄。是非成败转头空。青山依旧在，几度夕阳红。
+<br>
+白发渔樵江渚上，惯看秋月春风。一壶浊酒喜相逢。古今多少事，都付笑谈中。
+<br>
+<br>
+<p>最近更新：2023/6/5</p>
