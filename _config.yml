@@ -5,7 +5,7 @@ description:         ''
 url:                 
 baseurl:             ''
 paginate:            3
-permalink:           pretty
+permalink:           /:year/:month/:day/:title
 
 # About/contact
 author:
