@@ -1,10 +1,10 @@
 # Setup
 title:               Mao
 tagline:             ''
-description:         'Simple is beautiful'
+description:         ''
 url:                 
 baseurl:             ''
-paginate:            5
+paginate:            3
 permalink:           pretty
 
 # About/contact

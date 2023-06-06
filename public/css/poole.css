@@ -428,7 +428,24 @@ a.pagination-item:hover {
 }
 
 /* echo */
+.echo a{
+  color: #ac4142;
+}
+
+.echo a:hover{
+  border-bottom: 1.75px solid;
+}
 
 .echo-time{
   font-weight: bolder;
 }
+
+/* kindle */
+.kindle-title{
+  font-weight: bold;
+}
+
+.kindle-nav{
+  font-size: 15px;
+}
+

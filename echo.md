@@ -3,7 +3,7 @@ layout: page
 title: echo
 ---
 
-<div class="main">
+<div class="echo">
         <div class="bg-img"></div>
         <div class="inner-padding">
             <br>
@@ -89,7 +89,7 @@ title: echo
             <p class="echo-time">2022/8/15</p> 
             <p>多看各种方面的信息还是好处多多的，什么BLM,MTF,FTM都不在话下，回头见怪不怪地来一句就这，酷。</p>
             <p class="echo-time">2022/8/15</p> 
-            <p>刷到几次这本书记录一下，不一定看：《工作、消费主义和新穷人》 ((英)齐格蒙特·鲍曼</p>
+            <p>刷到几次这本书记录一下，不一定看：《工作、消费主义和新穷人》 (英)齐格蒙特·鲍曼</p>
             <p class="echo-time">2022/8/15</p>
             <p>毕业以来，和大部分人都失去了联系，时常感到孤独，好在也活到了今天。</p>
             <p class="echo-time">2022/8/15</p>
@@ -443,10 +443,8 @@ title: echo
             <p>我的病是想得太多，在想些什么啊。 </p>
             <p class="echo-time">2021/8/2</p>
             <p>起风了，唯有努力生存。 ​​​​</p>
-            <p class="echo-time">2021/7 class="border-b border-black dark:border-white
-                p-0"/20
-
-            <p>铃木敏夫好帅。</p>
+            <p class="echo-time">2021/7/9</p>
+            <p>铃木敏夫帅。</p>
             <p class="echo-time">2021/7/7</p>
             <p>风物长宜放眼量。</p>
             <p class="echo-time">2021/6/29</p>
@@ -533,7 +531,7 @@ title: echo
             <p class="echo-time">2020/10/9</p>
             <p>那一个时刻，时间都变慢了。</p>
             <p class="echo-time">2020/10/6</p>
-            <p>看朋朋友圈，压根不记得自己说过那些话，突然就感觉到了一丝丝的惆怅，度过的这些时间里，自己又发生了什么变化呢，很久没感受到这种心情。</p>
+            <p>看朋友圈，压根不记得自己说过那些话，突然就感觉到了一丝丝的惆怅，度过的这些时间里，自己又发生了什么变化呢，很久没感受到这种心情。</p>
             <p class="echo-time">2021/10/16</p>
             <p>我始终相信，开始在内心生活得严肃的人，也会在外表上开始生活得更朴素。在一个奢华浪费的年代，我希望能向世界表明，人类真正需要的东西是非常之微少的。</p>
             <p class="echo-time">2020/10/6</p>
