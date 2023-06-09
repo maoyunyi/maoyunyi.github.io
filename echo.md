@@ -10,6 +10,8 @@ title: echo
             <br>
             <p class="echo-time">2023/6/4</p>
             <p>准备看DOOM启示录。</p> 
+            <p class="echo-time">2023/3/26</p>
+            <p>买了一个sony dpt-rp1，屏幕很大，可以看PDF</p> 
             <p class="echo-time">2023/3/19</p>
             <p>二姐回村请大家吃饭，吃完的感觉是二姐挺有趣的。</p> 
             <p class="echo-time">2023/3/19</p>
