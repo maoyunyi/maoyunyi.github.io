@@ -8,6 +8,8 @@ title: echo
         <div class="inner-padding">
             <br>
             <br>
+            <p class="echo-time">2023/6/27</p>
+            <p>新闻专业，新闻界怎么样，张雪峰这次事件也是一种答案，以往政治人物失去权力会告知“住院了”，这次张雪峰害怕事情继续扩大，也来了一次“住院”。</p>
             <p class="echo-time">2023/6/4</p>
             <p>准备看DOOM启示录。</p> 
             <p class="echo-time">2023/3/26</p>
