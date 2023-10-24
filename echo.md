@@ -8,6 +8,14 @@ title: echo
         <div class="inner-padding">
             <br>
             <br>
+            <p class="echo-time">2023/10/24</p>
+            <p>我用维基百科看过许多人的生平，想起来大部分都是充满挫折，一帆风顺的人是少数，想到这便又乐观了一点。</p>
+            <p class="echo-time">2023/10/24</p>
+            <p>想到即将要离开，就想到未知的未来生活，就想到了奥威尔和杰克伦敦的生平。</p>
+            <p class="echo-time">2023/10/24</p>
+            <p><a href='https://cloud.tencent.com/developer/article/2175713'>灰度计算</a></p>
+            <p class="echo-time">2023/10/24</p>
+            <p><a href='https://paulbourke.net/dataformats/asciiart/'>用字符串表示灰度</a></p>
             <p class="echo-time">2023/10/11</p>
             <p>李艺彤好有趣，粉了</p>
             <p class="echo-time">2023/10/11</p>
@@ -18,13 +26,15 @@ title: echo
             <p>不想同时看到无能为力和伤心的感觉。</p>
             <p class="echo-time">2023/9/18</p>
             <p>两千白鸽飞过故园，我要离开。</p>
+            <p class="echo-time">2023/9/9</p>
+            <p>破窑赋，天有不测风云，人有旦夕祸福。蜈蚣百足，行不及蛇；雄鸡两翼，飞不过鸦。马有千里之程，无骑不能自往；人有冲天之志，非运不能自通。</p>
             <p class="echo-time">2023/8/15</p>
             <p>买了博德之门3</p>
             <p class="echo-time">2023/6/27</p>
-            <p>新闻专业，新闻界怎么样，以往政治人物失去权力会告知“住院了”，这次张害怕事情继续扩大，也来了一次“住院”。
+            <p>以往政治人物失去权力会告知“住院了”，这次张害怕事情继续扩大，也来了一次“住院”，他评论了新闻专业怎么样。
             </p>
             <p class="echo-time">2023/6/4</p>
-            <p>准备看DOOM启示录。</p> 
+            <p>看DOOM启示录。</p> 
             <p class="echo-time">2023/3/26</p>
             <p>买了一个sony dpt-rp1，屏幕很大，可以看PDF</p> 
             <p class="echo-time">2023/3/19</p>
