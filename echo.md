@@ -9,6 +9,14 @@ title: echo
             <br>
             <br>
             <p class="echo-time">2023/10/24</p>
+            <p>有时候会幻想，如果自己能够数字化会如何。</p>
+            <p class="echo-time">2023/10/24</p>
+            <p>常看常新 - <a href='https://yihui.org/'>https://yihui.org/</a></p>
+            <p class="echo-time">2023/10/24</p>
+            <p>感觉很厉害 - <a href='https://ljf.com/'>https://ljf.com/</a></p>
+            <p class="echo-time">2023/10/24</p>
+            <p>一个挺有意思的博客 - <a href='https://jubeny.com/'>渚碧</a></p>
+            <p class="echo-time">2023/10/24</p>
             <p>我用维基百科看过许多人的生平，想起来大部分都是充满挫折，一帆风顺的人是少数，想到这便又乐观了一点。</p>
             <p class="echo-time">2023/10/24</p>
             <p>想到即将要离开，就想到未知的未来生活，就想到了奥威尔和杰克伦敦的生平。</p>
