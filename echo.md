@@ -8,6 +8,8 @@ title: echo
         <div class="inner-padding">
             <br>
             <br>
+            <p class="echo-time">2023/10/29</p>
+            <p><a href='http://www.999kg.com/'>杨飞的自选集</a></p>            
             <p class="echo-time">2023/10/24</p>
             <p>有时候会幻想，如果自己能够数字化会如何。</p>
             <p class="echo-time">2023/10/24</p>
@@ -293,6 +295,8 @@ title: echo
             <p>THXZ,ALLGAMEFANS</p>
             <p class="echo-time">2022/5/13</p>
             <p>真的猛士敢于直面惨淡的人生，敢于正视淋漓的鲜血。</p>
+            <p class="echo-time">2022/5/9</p>
+            <p>在我美好的设想中自己可以写很久，在未来可以回来发现一些被自己忘却的事情。</p>
             <p class="echo-time">2022/4/24</p>
             <p>人不表达，和死了有什么区别。</p>
             <p class="echo-time">2022/4/21</p>
