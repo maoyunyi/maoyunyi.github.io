@@ -8,6 +8,31 @@ title: echo
         <div class="inner-padding">
             <br>
             <br>
+            <br>
+            <p class="echo-time">2023/12/7</p>
+            <p>把我的虚弱传递给你（政治的人生）。</p>
+            <P>把我的脆弱放在心里（自己编的）</P>
+            <p class="echo-time">2023/12/6</p>
+            <p>了解这个利维坦的禁忌。</p>
+            <p class="echo-time">2023/12/6</p>
+            <p>做帐单。</p>
+            <p class="echo-time">2023/12/5</p>
+            <p>原来家也会消失。</p>
+            <p class="echo-time">2023/12/5</p>
+            <p>我有我自己的路要走。</p>
+            <p class="echo-time">2023/12/5</p>
+            <p>他在思考，停止思考</p>
+            <p class="echo-time">2023/11/29</p>
+            <P>对痛苦的人生一定要存游戏心态。从微观角度，只有视生活为游戏才能快乐；从宏观角度，只有视存在为游戏才能超脱。</P>
+            <p>11-29 李银河</P>
+            <p class="echo-time">2023/11/22</p>
+            <p>骑车回住处的路上，一首盛夏的果实。</p>   
+            <p class="echo-time">2023/11/16</p>
+            <p>是谁夜晚下班骑车回家？是我</p>   
+            <p class="echo-time">2023/11/16</p>
+            <p>祝君如意。</p>   
+            <p class="echo-time">2023/11/9</p>
+            <p>找不到工作，生活不会太完美，忧郁的荷禹路，充满缺钱的泪水。</p>   
             <p class="echo-time">2023/10/29</p>
             <p><a href='http://www.999kg.com/'>杨飞的自选集</a></p>            
             <p class="echo-time">2023/10/24</p>
