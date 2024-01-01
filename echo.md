@@ -9,10 +9,18 @@ title: echo
             <br>
             <br>
             <br>
+            <p class="echo-time">2024/1/1</p>
+            <p>更新<a href='https://wiki.kiwix.org/wiki/Main_Page/zh-cn'>kiwix</a></p>
+            <p class="echo-time">2024/1/1</p>
+            <p>禾火摄影工作室，余杭八方城</p>
+            <p class="echo-time">2024/12/31</p>
+            <p>你有没有认真做过一件事</p>
+            <p class="echo-time">2024/12/31</p>
+            <p>2024，新的开始</p>
             <p class="echo-time">2023/12/25</p>
             <p>《罪与罚》</p>
             <p class="echo-time">2023/12/25</p>
-            <p>在买了博德之门3的四个月之后买了赛博朋克2077，这两件都是艺术品。</p>
+            <p>在买了博德之门3的四个月之后买了赛博朋克2077</p>
             <p class="echo-time">2023/12/25</p>
             <p>在这里记录自己的内容，何尝不是对自己思想的一种数字化。</p> 
             <p class="echo-time">2023/12/23</p>
