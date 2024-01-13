@@ -9,6 +9,10 @@ title: echo
             <br>
             <br>
             <br>
+            <p class="echo-time">2024/1/14</p>
+            <p><a href='https://www.bilibili.com/video/BV1Ts411G7pk?p=11&spm_id_from=pageDriver&vd_source=3a3e64d8f4652ab57d8104570feaf768'>《攻壳机动队》系列BGM、插曲</a></p>
+            <p class="echo-time">2024/1/12</p>
+            <p><a href='https://yihui.org/cn/2019/02/camus/'>加缪</a></p>
             <p class="echo-time">2024/1/12</p>
             <p>一辆领克车后面写着</p>
             <p>领克</p>
