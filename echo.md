@@ -9,6 +9,14 @@ title: echo
             <br>
             <br>
             <br>
+            <p class="echo-time">2024/1/22</p>
+            <p>打标仙人，黑夜自白。</p>
+            <p class="echo-time">2024/1/16</p>
+            <p>试了下在食堂吃饭，还不错啦</p>
+            <p class="echo-time">2024/1/16</p>
+            <p>听到如下对话：</p>
+            <p>你也是二次元？</p>
+            <p>一点点拉..不是很深</p>
             <p class="echo-time">2024/1/14</p>
             <p><a href='https://www.bilibili.com/video/BV1Ts411G7pk?p=11&spm_id_from=pageDriver&vd_source=3a3e64d8f4652ab57d8104570feaf768'>《攻壳机动队》系列BGM、插曲</a></p>
             <p class="echo-time">2024/1/12</p>
