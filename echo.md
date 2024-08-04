@@ -8,6 +8,22 @@ title: echo
         <div class="inner-padding">
             <br>
             <br>
+            <p class="echo-time">2024/8/4</p>
+            <p>一个人张开双手浮在空中不停的旋转，他仍在我们的思绪中徘徊。</p>
+            <p class="echo-time">2024/8/4</p>
+            <p>郑智化，水手</p>
+            <p class="echo-time">2024/8/4</p>
+            <p>杭州40°高温</p>
+            <p class="echo-time">2024/8/3</p>
+            <p>心似飞鸟远去，梦比海浪情深。</p>
+            <p class="echo-time">2024/8/3</p>
+            <p>中县干部</p>
+            <p class="echo-time">2024/7/29</p>
+            <p>龙亦作古</p>
+            <p class="echo-time">2024/7/28</p>
+            <p>a story of cyberpunk</p>
+            <p class="echo-time">2024/7/24</p>
+            <p>draw.io</p>
             <p class="echo-time">2024/7/21</p>
             <p>搭同事车回家，电瓶车车速很快，夜晚，凉爽。</p>
             <p class="echo-time">2024/7/21</p>
