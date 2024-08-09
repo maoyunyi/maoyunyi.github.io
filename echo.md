@@ -8,6 +8,14 @@ title: echo
         <div class="inner-padding">
             <br>
             <br>
+            <p class="echo-time">2024/8/9</p>
+            <p>英雄儿女新进，江湖少年易老。</p>
+            <p class="echo-time">2024/8/6</p>
+            <p>ghost in shell</p>
+            <p class="echo-time">2024/8/6</p>
+            <p>lithium flower</p>
+            <p class="echo-time">2024/8/4</p>
+            <p>他呼喊着我的名字，声音在风中逐渐消失。</p>
             <p class="echo-time">2024/8/4</p>
             <p>一个人张开双手浮在空中不停的旋转，他仍在我们的思绪中徘徊。</p>
             <p class="echo-time">2024/8/4</p>
