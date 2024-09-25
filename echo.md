@@ -8,6 +8,8 @@ title: echo
         <div class="inner-padding">
             <br>
             <br>
+                <p class="echo-time">2024/9/23</p>
+            <p>这些天感觉挺奇怪的</p>
                  <p class="echo-time">2024/9/20</p>
             <p>林彪行宫-704工程
 杭州市 龙井路79号浙江宾馆</p>
