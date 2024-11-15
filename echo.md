@@ -7,7 +7,12 @@ title: echo
         <div class="bg-img"></div>
         <div class="inner-padding">
             <br>
-            <br>
+            <br><p class="echo-time">2024/11/12</p>
+            <p>长天过大云</p>
+            <br><p class="echo-time">2024/11/12</p>
+            <p>you konw nothing, 太阳照常升起。</p>
+            <br><p class="echo-time">2024/10/16</p>
+            <p>月光宝盒，场记板。</p>
             <p class="echo-time">2024/10/15</p>
             <p>炉石传说宇宙战。</p>
             <p class="echo-time">2024/10/15</p>
