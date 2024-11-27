@@ -7,18 +7,35 @@ title: echo
         <div class="bg-img"></div>
         <div class="inner-padding">
             <br>
-            <br><p class="echo-time">2024/11/12</p>
+            <br>
+            <p class="echo-time">2024/11/25</p>
+            <p><a href='https://history.news.163.com/special/'>https://history.news.163.com/special/</a></p>
+            <p class="echo-time">2024/11/25</p>
+            <p>Tailwind CSS 发布 v4.0 首个 Beta</p>
+            <p class="echo-time">2024/11/24</p>
+            <p>艾伦·图灵（1912/6/23—1954/6/7），布莱切利庄园，恩尼格玛密码机。</p>
+            <p class="echo-time">2024/11/22</p>
+            <p>微博@止庵偶尔读到一首鲁迅祖父周福清的诗：</p>
+            <p>“关山极目渐萧条，千古兴衰酒一瓢。马当风乘牛渚月，广陵涛接浙江潮。倚楼遗韵传长笛，横槊豪情付洞箫。投笔从戎怀往事，玉门今已老班超。”（《桐华阁诗抄·秋兴四首之二》）</p>
+            <p>董炳月兄评曰“太厉害了”，我亦附议。 ​​​</p>
+            <p class="echo-time">2024/11/18</p>
+            <p>PXH-032</p>
+            <p class="echo-time">2024/11/16</p>
+            <p>看鬼子来了</p>
+            <p class="echo-time">2024/11/12</p>
             <p>长天过大云</p>
-            <br><p class="echo-time">2024/11/12</p>
+            <p class="echo-time">2024/11/12</p>
             <p>you konw nothing, 太阳照常升起。</p>
-            <br><p class="echo-time">2024/10/16</p>
+            <p class="echo-time">2024/11/12</p>
+            <p>微博@bookthing：了解自己的一个好方法是，认真反思你觉得别人身上令人讨厌的东西。-sia ​​​</p>
+            <p class="echo-time">2024/10/16</p>
             <p>月光宝盒，场记板。</p>
             <p class="echo-time">2024/10/15</p>
             <p>炉石传说宇宙战。</p>
             <p class="echo-time">2024/10/15</p>
             <p>省港骑兵。</p>
             <p class="echo-time">2024/10/15</p>
-            <p>重温國產凌凌七，发现之前看的版本都有各种删节，这次回顾又发现了许多细节。</p>
+            <p>重温國產凌凌七，这次回顾又发现了许多细节。</p>
             <p class="echo-time">2024/10/15</p>
             <p>看一步之遥，马走日，项飞田，这特么是象棋啊。</p>
             <p class="echo-time">2024/10/14</p>
