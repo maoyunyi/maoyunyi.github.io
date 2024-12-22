@@ -9,6 +9,8 @@ title: echo
             <br>
             <br>
             <p class="echo-time">2024/12/22</p>
+            <p>徐静雨真的太能侃了，我要向他学习。</p>
+            <p class="echo-time">2024/12/22</p>
             <p>月之暗面的KIMI</p>
             <p class="echo-time">2024/12/22</p>
             <p>兰州拉面便宜有好吃，我爱兰州拉面。</p>
