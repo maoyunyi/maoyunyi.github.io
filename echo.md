@@ -8,6 +8,12 @@ title: echo
         <div class="inner-padding">
             <br>
             <br>
+            <p class="echo-time">2025/1/3</p>
+            <p><a href='https://bookfere.com/post/1145.html/comment-page-1'>2025 Kindle 越狱教程：不限 Kindle 型号，不限固件版本</a>,真过年了</p>
+            <p class="echo-time">2025/1/3</p>
+            <p>人数超过一个便有了对话，便有了故事。</p>
+            <p class="echo-time">2025/1/3</p>
+            <p>不用悲伤，且做笑谈。</p>
             <p class="echo-time">2025/1/1</p>
             <p>用python处理大量有一定规律的数据太爽了。</p>
             <p class="echo-time">2024/12/31</p>
