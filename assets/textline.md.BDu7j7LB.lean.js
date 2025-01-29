@@ -1,0 +1,1 @@
+import{_ as t,c as o,ae as i,o as n}from"./chunks/framework.ilBJtLV6.js";const d=JSON.parse('{"title":"TextLine","description":"","frontmatter":{},"headers":[],"relativePath":"textline.md","filePath":"textline.md"}'),l={name:"textline.md"};function p(s,r,g,b,e,a){return n(),o("div",null,r[0]||(r[0]=[i("",2)]))}const c=t(l,[["render",p]]);export{d as __pageData,c as default};
