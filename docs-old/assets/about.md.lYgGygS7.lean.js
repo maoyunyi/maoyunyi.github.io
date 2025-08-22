@@ -1,1 +1,0 @@
-import{_ as e,c as t,ae as o,o as r}from"./chunks/framework.ilBJtLV6.js";const _=JSON.parse('{"title":"自我介绍","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),p={name:"about.md"};function i(n,a,l,s,d,h){return r(),t("div",null,a[0]||(a[0]=[o("",15)]))}const u=e(p,[["render",i]]);export{_ as __pageData,u as default};
