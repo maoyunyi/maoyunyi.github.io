@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maoyunyi.github.io/docs/</loc>
+    <loc>http://localhost:7942/docs/</loc>
     <lastmod>2025-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://maoyunyi.github.io/</loc>
+    <loc>http://localhost:7942/</loc>
     <lastmod>2025-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://maoyunyi.github.io/echo/</loc>
+    <loc>http://localhost:7942/echo/</loc>
     <lastmod>2025-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://maoyunyi.github.io/bookmark/</loc>
+    <loc>http://localhost:7942/bookmark/</loc>
     <lastmod>2025-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://maoyunyi.github.io/categories/</loc>
+    <loc>http://localhost:7942/categories/</loc>
   </url><url>
-    <loc>https://maoyunyi.github.io/tags/</loc>
+    <loc>http://localhost:7942/tags/</loc>
   </url><url>
-    <loc>https://maoyunyi.github.io/about/</loc>
+    <loc>http://localhost:7942/about/</loc>
   </url>
 </urlset>
