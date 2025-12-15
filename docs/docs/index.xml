@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on MAO</title>
-    <link>http://localhost:7942/docs/</link>
+    <link>https://maoyunyi.github.io/docs/</link>
     <description>Recent content in Docs on MAO</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:7942/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://maoyunyi.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
